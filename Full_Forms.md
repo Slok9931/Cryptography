@@ -4,3 +4,9 @@
 -  CPA : Chosen Plaintext Attack
 -  CCA : Chosen Ciphertext Attack
 -  AES : Advanced Encryption Standard
+-  PKI : Public Key Infrastructure
+-  CCA : Controller of Certifying Authority
+-  CRL : Certification Revocation List
+-  MAC : Message Authentication Code
+-  CSR : Certificate Signing Request
+-  DH  : Diffy Hellmann
