@@ -12,3 +12,9 @@
 -  CSR : Certificate Signing Request
 -  DH  : Diffy Hellmann
 -  SPN : Substitution Permutation Network
+-  PRF : Pseudo Random Function
+-  ECB : Electronic Code Block
+-  CBC : Cipher Block Chaining
+-  OFB : Output Feedback Mode
+-  CFB : Cipher Feedback Mode
+-  CTR : Counter Mode
