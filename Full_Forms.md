@@ -18,3 +18,5 @@
 -  OFB : Output Feedback Mode
 -  CFB : Cipher Feedback Mode
 -  CTR : Counter Mode
+-  DC  : Differential Cryptanalysis
+-  DDT : Difference Distribution Table
