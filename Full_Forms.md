@@ -20,3 +20,4 @@
 -  CTR : Counter Mode
 -  DC  : Differential Cryptanalysis
 -  DDT : Difference Distribution Table
+-  MILP: Mixed Integer Linear Programming
