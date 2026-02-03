@@ -21,3 +21,4 @@
 -  DC  : Differential Cryptanalysis
 -  DDT : Difference Distribution Table
 -  MILP: Mixed Integer Linear Programming
+-  SNR : Signal to Noise Ratio
