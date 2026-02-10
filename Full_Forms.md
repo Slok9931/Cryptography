@@ -23,3 +23,5 @@
 -  MILP: Mixed Integer Linear Programming
 -  SNR : Signal to Noise Ratio
 -  LP  : Linear Programming
+-  LC  : Linear Cryptanalysis
+-  LAT : Linear Approximation Table
