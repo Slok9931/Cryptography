@@ -13,7 +13,7 @@
 -  DH  : Diffy Hellmann
 -  SPN : Substitution Permutation Network
 -  PRF : Pseudo Random Function
--  ECB : Electronic Code Block
+-  ECB : Electronic Code Book
 -  CBC : Cipher Block Chaining
 -  OFB : Output Feedback Mode
 -  CFB : Cipher Feedback Mode
@@ -22,3 +22,4 @@
 -  DDT : Difference Distribution Table
 -  MILP: Mixed Integer Linear Programming
 -  SNR : Signal to Noise Ratio
+-  LP  : Linear Programming
